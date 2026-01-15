@@ -3,6 +3,7 @@
 ## Project Overview
 
 Lintel is a sophisticated, production-ready UI component implementation showcasing modern web design principles through an "Insights from the Studio" content section. This project demonstrates advanced CSS techniques, responsive grid systems, and thoughtful typographic hierarchy within a minimal codebase.
+
 <img width="1920" height="1160" alt="lintel" src="https://github.com/user-attachments/assets/943868af-d5b0-4b91-9598-86d916167bb7" />
 
 ## Live Deployment
